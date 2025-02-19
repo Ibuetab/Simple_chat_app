@@ -5,7 +5,7 @@ let nombre;
 function Start(){
   nombre=prompt("Dime tu nombre");
   let config = {
-    apiKey: "AIzaSyAs0RA1QU7I8jpuhi3wPCWxOiCuC00ZK08",
+    apiKey: "",
     authDomain: "chat-7d403.firebaseapp.com",
     databaseURL: "https://chat-7d403.firebaseio.com",
     projectId: "chat-7d403",
